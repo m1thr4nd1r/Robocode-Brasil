@@ -8,9 +8,9 @@
 
 3. Dentro da pasta do projeto, compile os arquivos `.java` com o comando:
 
-```shell
-    javac -cp  ~/robocode/libs/robocode.jar ./*.java && javac -cp ~/robocode/libs/robocode.jar ./*/*.java
- ```
+  ```shell
+      javac -cp  ~/robocode/libs/robocode.jar ./*.java && javac -cp ~/robocode/libs/robocode.jar ./*/*.java
+  ```
 
 4. Agora é só executar o robocode. Dentro da pasta do robocode, fora da pasta do projeto, execute: `./robocode.sh` ou `sh robocode.sh`
 
