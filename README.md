@@ -4,7 +4,7 @@
 
 1. Mova a pasta do projeto(`Robocode-Brasil`) para a pasta dos robôs do robocode (normalmente fica em `~/robocode/robots/`);
 
-2. Renomei a pasta do projeto de `Robocode-Brasil` para `orion`, por causa dos packages das classes (no terminal: `mv Robocode-Brasil orion`);
+2. Renomeie a pasta do projeto de `Robocode-Brasil` para `orion`, por causa dos packages das classes (no terminal: `mv Robocode-Brasil orion`);
 
 3. Dentro da pasta do projeto, compile os arquivos `.java` com o comando:
 
